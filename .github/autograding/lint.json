@@ -1,5 +1,7 @@
 {
-  "files": ["main.py"],
+  "files": [
+    "test_main.py"
+  ],
   "ignore" : [],
-  "max": 20
+  "max": 10
 }
