@@ -1,7 +1,7 @@
 [
   {
-    "name": "test",
-    "function": "test",
+    "name": "test_main_exit",
+    "function": "test_main_exit",
     "timeout": 10,
     "points": 1
   }
